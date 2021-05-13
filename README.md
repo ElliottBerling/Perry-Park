@@ -27,3 +27,73 @@
 
 ![topo](ElliottBerlingFinal/mapphoto.jpg)
 [map link](ElliottBerlingFinal/Mapbox.html)
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title>Display a map</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 10%;
+      bottom: 10%;
+      width: 50%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id='map'></div>
+
+  <script>
+    // 💡💡💡 Change this to your Token --------------------
+    // ------------------------------------------------
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZWxsaW90dC1iZXJsaW5nIiwiYSI6ImNrbzh0cndjcjB2NzIydm9hb2tkMGw4YTIifQ.FKlkT6NwV86OeAHH_0xPjw';
+    // ------------------------------------------------
+    // ------------------------------------------------
+
+    var map = new mapboxgl.Map({
+      container: 'map',
+
+      // 💡💡💡 Change this to your style --------------------
+      // ------------------------------------------------
+      style: 'mapbox://styles/elliott-berling/ckon5wslc3jyb19pmepqjq3nm',
+      // ----------------------------------------------
+      // ------------------------------------------------
+
+      // 💡💡💡 Change to your location ----------------------
+      // ------------------------------------------------
+      // zoom: 15.95,
+      // center: [-85.009405, 38.538249],
+      // pitch: 85,
+      // bearing: 80
+      // ------------------------------------------------
+      // ----------------------------------------------
+
+    });
+
+    // Add geolocate control to the map.
+    map.addControl(new mapboxgl.GeolocateControl({
+      positionOptions: {
+        enableHighAccuracy: true
+      },
+      trackUserLocation: true
+    }));
+  </script>
+
+</body>
+
+</html>
