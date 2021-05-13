@@ -16,7 +16,8 @@
 ### The slide show gives a 3D animation view of the first few holes on the Buckskin Golf Course.
 
 ![slideshow](ElliottBerlingFinal/slideshowpic.jpg)
-[Slideshow link](ElliottBerlingFinal/slideshow.html)
+[Slideshow link](https://cesium.com/ion/stories/viewer/?id=a39236c5-05a1-45eb-8682-58ee20fee8f3)
+
 
 
 # Our House's Topo Map
