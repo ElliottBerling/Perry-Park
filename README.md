@@ -25,6 +25,6 @@
 # Our house is indicated my the red arrow in the picture below.
 # The interactive map can be seen in the link below.
 
-![topo](ElliottBerlingFinal/mapphoto.jpg)
+![topo](ElliottBerlingFinal/RedArrow.jpg)
 [map link](ElliottBerlingFinal/Mapbox.html)
 
