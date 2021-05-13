@@ -20,16 +20,12 @@
 
 
 
-## Our House's Topo Map
-# I created a topographic map for my Dad around our house. I know he works with topographic map everyday so I think he will enjoy this.
-# Our house is indicated my the red arrow in the picture below.
-# The interactive map can be seen in the link below.
+# Our House's Topo Map
+### I created a topographic map for my Dad around our house. I know he works with topographic map everyday so I think he will enjoy this.
+### Our house is indicated my the red arrow in the picture below.
+### The interactive map can be seen in the link below.
 
 ![topo](ElliottBerlingFinal/RedArrow.jpg)
 
 
-<body>
-	<iframe src="Mapbox.html" width="100%" height="440px"></iframe>
-	<section>
-		<a href='Mapbox.html' class="linkbox">Full screen version</a>
-<body>
+
