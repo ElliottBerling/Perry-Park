@@ -25,6 +25,6 @@
 ### The interactive map can be seen in the link below.
 
 ![topo](ElliottBerlingFinal/RedArrow.jpg)
-[Map Link](ElliottBerlingFinal/Mapbox.html)
-<iframe src="map/Mapbox.html" width="100%"></iframe>
+[Map Link](https://api.mapbox.com/styles/v1/elliott-berling/ckon5wslc3jyb19pmepqjq3nm.html?fresh=true&title=view&access_token=pk.eyJ1IjoiZWxsaW90dC1iZXJsaW5nIiwiYSI6ImNrbzh0cndjcjB2NzIydm9hb2tkMGw4YTIifQ.FKlkT6NwV86OeAHH_0xPjw)
+
 
