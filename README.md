@@ -26,5 +26,10 @@
 # The interactive map can be seen in the link below.
 
 ![topo](ElliottBerlingFinal/RedArrow.jpg)
-[map link](ElliottBerlingFinal/Mapbox.html)
 
+
+<body>
+	<iframe src="Mapbox.html" width="100%" height="440px"></iframe>
+	<section>
+		<a href='Mapbox.html' class="linkbox">Full screen version</a>
+<body>
