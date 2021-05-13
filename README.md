@@ -1,12 +1,13 @@
-### Perry-Park
+# Perry-Park
 ## Located at 595 Springport Ferry Rd. Perry Park KY, 40363
 ![logo](ElliottBerlingFinal/PPGC.jpg)
-# Perry Park used to be a large slave plantation owned by the Perry family during the time of the civil war.
-# It later became a golf course in the late 1960's.
-# My father and his family bought the land in the 1990's and have owned and maintained it ever since.
-# I have spent countless hours around this land, and it is of great importance to me.
-# I hope to give this map of Perry Park along with my other maps to my Dad on Father's Day.
+### Perry Park used to be a large slave plantation owned by the Perry family during the time of the civil war.
+### It later became a golf course in the late 1960's.
+### My father and his family bought the land in the 1990's and have owned and maintained it ever since.
+### I have spent countless hours around this land, and it is of great importance to me.
+### I hope to give this map of Perry Park along with my other maps to my Dad on Father's Day.
 
+#### This is an overview photo of the resort.
 ![Overview](ElliottBerlingFinal/PPOVERVIEW.jpg)
  
 # Overhead view of Perry Park From diablogolf.com
@@ -29,5 +30,5 @@
 # Our house is indicated my the red arrow in the picture below.
 # The interactive map can be seen in the link below.
 
-![topo](ElliottBerlingFinal/Screenshot(534)_LI.jpg)
+![topo](ElliottBerlingFinal/mapphoto.jpg)
 [map link](ElliottBerlingFinal/Mapbox.html)
