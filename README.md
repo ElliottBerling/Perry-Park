@@ -10,11 +10,6 @@
 #### This is an overview photo of the resort.
 ![Overview](ElliottBerlingFinal/PPOVERVIEW.jpg)
  
-# Overhead view of Perry Park From diablogolf.com
-![Perry Park Photo 1](Perry/PerryParkPicture.jpg)
-
-# View of Hotel and number 9 from ketuckytourism.com
-![Perry Park Photo 2](Perry/0-pp.jpg)
 
 ## Perry Park Slide Show
 # The slide show can be viewed in the link provided
