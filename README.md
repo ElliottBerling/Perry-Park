@@ -15,7 +15,7 @@
 # The slide show can be viewed in the link provided
 # The slide show gives a 3D animation view of the first few holes on the Buckskin Golf Course.
 
-![slideshow](ElliottBerlingFinal/Screenshot(532).png)
+![slideshow](ElliottBerlingFinal/slideshowpic.jpg)
 [Slideshow link](ElliottBerlingFinal/slideshow.html)
 
 
