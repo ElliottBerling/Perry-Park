@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Perry-Park
+## Located at 595 Springport Ferry Rd. Perry Park KY, 40363
+![logo](ElliottBerlingFinal/PPGC.jpg)
+### Perry Park used to be a large slave plantation owned by the Perry family during the time of the civil war.
+### It later became a golf course in the late 1960's.
+### My father and his family bought the land in the 1990's and have owned and maintained it ever since.
+### I have spent countless hours around this land, and it is of great importance to me.
+### I hope to give this map of Perry Park along with my other maps to my Dad on Father's Day.
 
-You can use the [editor on GitHub](https://github.com/ElliottBerling/Perry-Park/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### This is an overview photo of the resort.
+![Overview](ElliottBerlingFinal/PPOVERVIEW.jpg)
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Perry Park Slide Show
+### The slide show can be viewed in the link provided
+### The slide show gives a 3D animation view of the first few holes on the Buckskin Golf Course.
 
-### Markdown
+![slideshow](ElliottBerlingFinal/slideshowpic.jpg)
+[Slideshow link](ElliottBerlingFinal/slideshow.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Our House's Topo Map
+### I created a topographic map for my Dad around our house. I know he works with topographic map everyday so I think he will enjoy this.
+### Our house is indicated my the red arrow in the picture below.
+### The interactive map can be seen in the link below.
 
-# Header 1
-## Header 2
-### Header 3
+![topo](ElliottBerlingFinal/RedArrow.jpg)
+[Map Link](https://api.mapbox.com/styles/v1/elliott-berling/ckon5wslc3jyb19pmepqjq3nm.html?fresh=true&title=view&access_token=pk.eyJ1IjoiZWxsaW90dC1iZXJsaW5nIiwiYSI6ImNrbzh0cndjcjB2NzIydm9hb2tkMGw4YTIifQ.FKlkT6NwV86OeAHH_0xPjw)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElliottBerling/Perry-Park/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
